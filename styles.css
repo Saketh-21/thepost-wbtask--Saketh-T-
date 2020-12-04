@@ -12,7 +12,7 @@
 
 }
 .nav ul {
- margin: 0;   (order matter ul at bottom in order does not work)(use class nav and nav ul gives all ul in nav do not have a margin)
+ margin: 0;   
 }
 .nav li {
    display: inline;
@@ -42,7 +42,7 @@ color: #777;
 
 .main-header{
  
- background-image: url("/home/saketh/Downloads/b1.jpeg")     
+ background-image: url("/home/saketh/Downloads/"b1.jpeg"")     
 }
 
 .main-header{
@@ -75,6 +75,6 @@ margin: 0;
 }
 .html, body{
 margin: 0;
-padding: 0;      (removes spaces above and sides of header)
-}                 (still upper space is there as ul element prefers space so get ul margin:0)
+padding: 0;      
+}                 
 
